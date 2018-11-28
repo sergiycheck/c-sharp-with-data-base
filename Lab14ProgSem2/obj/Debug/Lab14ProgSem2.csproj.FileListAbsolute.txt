@@ -1,0 +1,12 @@
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.csprojResolveAssemblyReference.cache
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.FormInitial.resources
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.FormGen.resources
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.FormLog.resources
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.Properties.Resources.resources
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.csproj.GenerateResource.cache
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.csproj.CoreCompileInputs.cache
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\bin\Debug\Lab14ProgSem2.exe.config
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\bin\Debug\Lab14ProgSem2.exe
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\bin\Debug\Lab14ProgSem2.pdb
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.exe
+c:\users\серий\source\repos\Lab14ProgSem2\Lab14ProgSem2\obj\Debug\Lab14ProgSem2.pdb
